@@ -1,0 +1,7 @@
+.idea/
+backend.iml
+
+templates
+api/migrations
+
+db.sqlite3
